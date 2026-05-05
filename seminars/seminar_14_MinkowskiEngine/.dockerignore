@@ -1,0 +1,7 @@
+.venv
+.uv-cache
+modelnet40_ply_hdf5_2048
+modelnet40_ply_hdf5_2048.zip
+*.pth
+*.log
+__pycache__
